@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Sunitha R:mailto:sunitha.r@wipro.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=prabakrish
+ nan74@gmail.com:mailto:prabakrishnan74@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Rammohan R
+ eddy:mailto:rammohan.reddy1@wipro.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Muthamma m
+ oksha Kd:mailto:muthammamoksha.kd@wipro.com
+DESCRIPTION;LANGUAGE=en-GB:Dear Applicant\,\n\nPlease join the discussion o
+ n-time and be available on Video with Govt ID Proof.\n\nDear Panel\,\n\nPl
+ ease connect on Video.\n\nInstructions for Panel to access Resume\n\n  *  
+  Open ICIMS (https://wipro.icims.com/) and continue with corporate login.\
+ n\nSearch with Requisition ID #   and open the same.\n\nUnder people tab\,
+  expand incomplete row.Find profile with Resume ID #\n\nand click on name 
+ to open profile.Click on resume tab to view the same\n\nRequisition ID #  
+    2085793\n\nResume ID #       28405992\n\n\n\nNote :\n\n  *   Both Panel
+  & Candidate video is mandatory for entire interview session. Discussion s
+ hould be  recorded with both panel and candidates’ video for entire inte
+ rview session And screenshot of the discussion\, reflecting time & date of
+  interview should be shared.\n  *   Interview duration post recording shou
+ ld be minimum 30 mins\n\n\n_______________________________________________
+ _________________________________\nMicrosoft Teams Need help?<https://aka.
+ ms/JoinTeamsMeeting?omkt=en-GB>\nJoin the meeting now<https://teams.micros
+ oft.com/l/meetup-join/19%3ameeting_Y2U3Y2ZkNDQtMTBjZC00MmY2LWI2NjktOWU3ZTI
+ xNjQ3ZmYy%40thread.v2/0?context=%7b%22Tid%22%3a%22258ac4e4-146a-411e-9dc8-
+ 79a9e12fd6da%22%2c%22Oid%22%3a%22f9976664-9dc5-49b7-9b79-7e89c29305b2%22%7
+ d>\nMeeting ID: 460 184 263 764\nPasscode: Jy9vMX\n_______________________
+ _________\nJoin on a video conferencing device\nTenant key: wiproconcca@m.
+ webex.com\nVideo ID: 131 995 474 6\nMore info<https://www.webex.com/msteam
+ s?confid=1319954746&tenantkey=wiproconcca&domain=m.webex.com>\nFor organis
+ ers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizer
+ Id=f9976664-9dc5-49b7-9b79-7e89c29305b2&tenantId=258ac4e4-146a-411e-9dc8-7
+ 9a9e12fd6da&threadId=19_meeting_Y2U3Y2ZkNDQtMTBjZC00MmY2LWI2NjktOWU3ZTIxNj
+ Q3ZmYy@thread.v2&messageId=0&language=en-GB>\n____________________________
+ ____________________________________________________\n'The information con
+ tained in this electronic message and any attachments to this message are 
+ intended for the exclusive use of the addressee(s) and may contain proprie
+ tary\, confidential or privileged information. If you are not the intended
+  recipient\, you should not disseminate\, distribute or copy this e-mail. 
+ Please notify the sender immediately and destroy all copies of this messag
+ e and any attachments. WARNING: Computer viruses can be transmitted via em
+ ail. The recipient should check this email and any attachments for the pre
+ sence of viruses. The company accepts no liability for any damage caused b
+ y any virus transmitted by this email. www.wipro.com'\n
+UID:040000008200E00074C5B7101A82E00800000000CB237FA9D0A3DA01000000000000000
+ 01000000014C6DE9583B5B8408C9408C6EE90A3C8
+SUMMARY;LANGUAGE=en-GB:Technical Discussion -  Gopalakrishnan P- Mainframe 
+ testing
+DTSTART;TZID=India Standard Time:20240513T170000
+DTEND;TZID=India Standard Time:20240513T175000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20240511T182600Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-GB:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2122668235
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_Y2U3Y2ZkNDQtMTBjZC00MmY2LWI2NjktOWU3ZTIxNjQ3ZmYy%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22258ac4e4-146a-411e-9dc8-79a9e12fd6da%22%2c%22O
+ id%22%3a%22f9976664-9dc5-49b7-9b79-7e89c29305b2%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/258ac4e4-146a-411e-9dc8-79a9e12fd6da/f9976664-9dc5-49b7-9b79-7
+ e89c29305b2/19_meeting_Y2U3Y2ZkNDQtMTBjZC00MmY2LWI2NjktOWU3ZTIxNjQ3ZmYy@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_Y2U3Y2ZkNDQtMTBjZC00MmY
+ 2LWI2NjktOWU3ZTIxNjQ3ZmYy@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams Meeting
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"LocationA
+ nnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"
+ LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"Locatio
+ nFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
